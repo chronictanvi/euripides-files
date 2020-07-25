@@ -1,0 +1,416 @@
+Web Fonts:
+**********
+
+Eur_1.ufo
+---------
+source: /Users/NYETO/Desktop/euripedes-/Eur_1.ufo
+
+Build WOFF (OTF)
+''''''''''''''''
+    path: /Users/NYETO/Desktop/euripides-files/Euripides-SemiBold_web.woff
+    Source is a UFO file. Generate OTF.
+        --------------------
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        makeotfexe [WARNING] unhinted <.notdef>
+        makeotfexe [WARNING] unhinted <exclam>
+        makeotfexe [WARNING] unhinted <quotedbl>
+        makeotfexe [WARNING] unhinted <numbersign>
+        makeotfexe [WARNING] unhinted <percent>
+        makeotfexe [WARNING] unhinted <ampersand>
+        makeotfexe [WARNING] unhinted <quotesingle>
+        makeotfexe [WARNING] unhinted <parenleft>
+        makeotfexe [WARNING] unhinted <parenright>
+        makeotfexe [WARNING] unhinted <asterisk>
+        makeotfexe [WARNING] unhinted <plus>
+        makeotfexe [WARNING] unhinted <comma>
+        makeotfexe [WARNING] unhinted <hyphen>
+        makeotfexe [WARNING] unhinted <period>
+        makeotfexe [WARNING] unhinted <slash>
+        makeotfexe [WARNING] unhinted <zero>
+        makeotfexe [WARNING] unhinted <one>
+        makeotfexe [WARNING] unhinted <two>
+        makeotfexe [WARNING] unhinted <three>
+        makeotfexe [WARNING] unhinted <four>
+        makeotfexe [WARNING] unhinted <five>
+        makeotfexe [WARNING] unhinted <six>
+        makeotfexe [WARNING] unhinted <seven>
+        makeotfexe [WARNING] unhinted <eight>
+        makeotfexe [WARNING] unhinted <nine>
+        makeotfexe [WARNING] unhinted <colon>
+        makeotfexe [WARNING] unhinted <semicolon>
+        makeotfexe [WARNING] unhinted <less>
+        makeotfexe [WARNING] unhinted <equal>
+        makeotfexe [WARNING] unhinted <greater>
+        makeotfexe [WARNING] unhinted <question>
+        makeotfexe [WARNING] unhinted <at>
+        makeotfexe [WARNING] unhinted <A>
+        makeotfexe [WARNING] unhinted <B>
+        makeotfexe [WARNING] unhinted <C>
+        makeotfexe [WARNING] unhinted <D>
+        makeotfexe [WARNING] unhinted <E>
+        makeotfexe [WARNING] unhinted <F>
+        makeotfexe [WARNING] unhinted <G>
+        makeotfexe [WARNING] unhinted <H>
+        makeotfexe [WARNING] unhinted <I>
+        makeotfexe [WARNING] unhinted <J>
+        makeotfexe [WARNING] unhinted <K>
+        makeotfexe [WARNING] unhinted <L>
+        makeotfexe [WARNING] unhinted <M>
+        makeotfexe [WARNING] unhinted <N>
+        makeotfexe [WARNING] unhinted <O>
+        makeotfexe [WARNING] unhinted <P>
+        makeotfexe [WARNING] unhinted <Q>
+        makeotfexe [WARNING] unhinted <R>
+        makeotfexe [WARNING] unhinted <S>
+        makeotfexe [WARNING] unhinted <T>
+        makeotfexe [WARNING] unhinted <U>
+        makeotfexe [WARNING] unhinted <V>
+        makeotfexe [WARNING] unhinted <W>
+        makeotfexe [WARNING] unhinted <X>
+        makeotfexe [WARNING] unhinted <Y>
+        makeotfexe [WARNING] unhinted <Z>
+        makeotfexe [WARNING] unhinted <bracketleft>
+        makeotfexe [WARNING] unhinted <backslash>
+        makeotfexe [WARNING] unhinted <bracketright>
+        makeotfexe [WARNING] unhinted <asciicircum>
+        makeotfexe [WARNING] unhinted <grave>
+        makeotfexe [WARNING] unhinted <a>
+        makeotfexe [WARNING] unhinted <b>
+        makeotfexe [WARNING] unhinted <c>
+        makeotfexe [WARNING] unhinted <d>
+        makeotfexe [WARNING] unhinted <e>
+        makeotfexe [WARNING] unhinted <f>
+        makeotfexe [WARNING] unhinted <g>
+        makeotfexe [WARNING] unhinted <h>
+        makeotfexe [WARNING] unhinted <i>
+        makeotfexe [WARNING] unhinted <j>
+        makeotfexe [WARNING] unhinted <k>
+        makeotfexe [WARNING] unhinted <l>
+        makeotfexe [WARNING] unhinted <m>
+        makeotfexe [WARNING] unhinted <n>
+        makeotfexe [WARNING] unhinted <o>
+        makeotfexe [WARNING] unhinted <p>
+        makeotfexe [WARNING] unhinted <q>
+        makeotfexe [WARNING] unhinted <r>
+        makeotfexe [WARNING] unhinted <s>
+        makeotfexe [WARNING] unhinted <t>
+        makeotfexe [WARNING] unhinted <u>
+        makeotfexe [WARNING] unhinted <v>
+        makeotfexe [WARNING] unhinted <w>
+        makeotfexe [WARNING] unhinted <x>
+        makeotfexe [WARNING] unhinted <y>
+        makeotfexe [WARNING] unhinted <z>
+        makeotfexe [WARNING] unhinted <braceleft>
+        makeotfexe [WARNING] unhinted <bar>
+        makeotfexe [WARNING] unhinted <braceright>
+        makeotfexe [WARNING] unhinted <asciitilde>
+        makeotfexe [WARNING] unhinted <exclamdown>
+        makeotfexe [WARNING] unhinted <brokenbar>
+        makeotfexe [WARNING] unhinted <section>
+        makeotfexe [WARNING] unhinted <dieresis>
+        makeotfexe [WARNING] unhinted <copyright>
+        makeotfexe [WARNING] unhinted <macron>
+        makeotfexe [WARNING] unhinted <degree>
+        makeotfexe [WARNING] unhinted <acute>
+        makeotfexe [WARNING] unhinted <periodcentered>
+        makeotfexe [WARNING] unhinted <cedilla>
+        makeotfexe [WARNING] unhinted <questiondown>
+        makeotfexe [WARNING] unhinted <Agrave>
+        makeotfexe [WARNING] unhinted <Aacute>
+        makeotfexe [WARNING] unhinted <Acircumflex>
+        makeotfexe [WARNING] unhinted <Atilde>
+        makeotfexe [WARNING] unhinted <AE>
+        makeotfexe [WARNING] unhinted <Ccedilla>
+        makeotfexe [WARNING] unhinted <Egrave>
+        makeotfexe [WARNING] unhinted <Eacute>
+        makeotfexe [WARNING] unhinted <Ecircumflex>
+        makeotfexe [WARNING] unhinted <Igrave>
+        makeotfexe [WARNING] unhinted <Iacute>
+        makeotfexe [WARNING] unhinted <Icircumflex>
+        makeotfexe [WARNING] unhinted <Idieresis>
+        makeotfexe [WARNING] unhinted <Ntilde>
+        makeotfexe [WARNING] unhinted <Ograve>
+        makeotfexe [WARNING] unhinted <Oacute>
+        makeotfexe [WARNING] unhinted <Ocircumflex>
+        makeotfexe [WARNING] unhinted <Otilde>
+        makeotfexe [WARNING] unhinted <Odieresis>
+        makeotfexe [WARNING] unhinted <Oslash>
+        makeotfexe [WARNING] unhinted <Ugrave>
+        makeotfexe [WARNING] unhinted <Uacute>
+        makeotfexe [WARNING] unhinted <Ucircumflex>
+        makeotfexe [WARNING] unhinted <Udieresis>
+        makeotfexe [WARNING] unhinted <Yacute>
+        makeotfexe [WARNING] unhinted <agrave>
+        makeotfexe [WARNING] unhinted <aacute>
+        makeotfexe [WARNING] unhinted <acircumflex>
+        makeotfexe [WARNING] unhinted <atilde>
+        makeotfexe [WARNING] unhinted <adieresis>
+        makeotfexe [WARNING] unhinted <aring>
+        makeotfexe [WARNING] unhinted <ae>
+        makeotfexe [WARNING] unhinted <ccedilla>
+        makeotfexe [WARNING] unhinted <egrave>
+        makeotfexe [WARNING] unhinted <eacute>
+        makeotfexe [WARNING] unhinted <ecircumflex>
+        makeotfexe [WARNING] unhinted <edieresis>
+        makeotfexe [WARNING] unhinted <igrave>
+        makeotfexe [WARNING] unhinted <iacute>
+        makeotfexe [WARNING] unhinted <icircumflex>
+        makeotfexe [WARNING] unhinted <idieresis>
+        makeotfexe [WARNING] unhinted <ntilde>
+        makeotfexe [WARNING] unhinted <ograve>
+        makeotfexe [WARNING] unhinted <oacute>
+        makeotfexe [WARNING] unhinted <ocircumflex>
+        makeotfexe [WARNING] unhinted <otilde>
+        makeotfexe [WARNING] unhinted <odieresis>
+        makeotfexe [WARNING] unhinted <oslash>
+        makeotfexe [WARNING] unhinted <ugrave>
+        makeotfexe [WARNING] unhinted <uacute>
+        makeotfexe [WARNING] unhinted <ucircumflex>
+        makeotfexe [WARNING] unhinted <udieresis>
+        makeotfexe [WARNING] unhinted <yacute>
+        makeotfexe [WARNING] unhinted <ydieresis>
+        makeotfexe [WARNING] unhinted <Amacron>
+        makeotfexe [WARNING] unhinted <amacron>
+        makeotfexe [WARNING] unhinted <Abreve>
+        makeotfexe [WARNING] unhinted <abreve>
+        makeotfexe [WARNING] unhinted <Aogonek>
+        makeotfexe [WARNING] unhinted <aogonek>
+        makeotfexe [WARNING] unhinted <Cacute>
+        makeotfexe [WARNING] unhinted <cacute>
+        makeotfexe [WARNING] unhinted <Ccaron>
+        makeotfexe [WARNING] unhinted <ccaron>
+        makeotfexe [WARNING] unhinted <Dcaron>
+        makeotfexe [WARNING] unhinted <dcaron>
+        makeotfexe [WARNING] unhinted <Dcroat>
+        makeotfexe [WARNING] unhinted <dcroat>
+        makeotfexe [WARNING] unhinted <Emacron>
+        makeotfexe [WARNING] unhinted <emacron>
+        makeotfexe [WARNING] unhinted <Edotaccent>
+        makeotfexe [WARNING] unhinted <edotaccent>
+        makeotfexe [WARNING] unhinted <Eogonek>
+        makeotfexe [WARNING] unhinted <eogonek>
+        makeotfexe [WARNING] unhinted <Ecaron>
+        makeotfexe [WARNING] unhinted <ecaron>
+        makeotfexe [WARNING] unhinted <Gbreve>
+        makeotfexe [WARNING] unhinted <gbreve>
+        makeotfexe [WARNING] unhinted <Imacron>
+        makeotfexe [WARNING] unhinted <imacron>
+        makeotfexe [WARNING] unhinted <Iogonek>
+        makeotfexe [WARNING] unhinted <iogonek>
+        makeotfexe [WARNING] unhinted <Idotaccent>
+        makeotfexe [WARNING] unhinted <dotlessi>
+        makeotfexe [WARNING] unhinted <Lacute>
+        makeotfexe [WARNING] unhinted <Lcaron>
+        makeotfexe [WARNING] unhinted <lcaron>
+        makeotfexe [WARNING] unhinted <Lslash>
+        makeotfexe [WARNING] unhinted <lslash>
+        makeotfexe [WARNING] unhinted <Nacute>
+        makeotfexe [WARNING] unhinted <nacute>
+        makeotfexe [WARNING] unhinted <Ncaron>
+        makeotfexe [WARNING] unhinted <ncaron>
+        makeotfexe [WARNING] unhinted <Omacron>
+        makeotfexe [WARNING] unhinted <omacron>
+        makeotfexe [WARNING] unhinted <Ohungarumlaut>
+        makeotfexe [WARNING] unhinted <ohungarumlaut>
+        makeotfexe [WARNING] unhinted <OE>
+        makeotfexe [WARNING] unhinted <oe>
+        makeotfexe [WARNING] unhinted <Racute>
+        makeotfexe [WARNING] unhinted <racute>
+        makeotfexe [WARNING] unhinted <Rcaron>
+        makeotfexe [WARNING] unhinted <rcaron>
+        makeotfexe [WARNING] unhinted <Sacute>
+        makeotfexe [WARNING] unhinted <sacute>
+        makeotfexe [WARNING] unhinted <Scaron>
+        makeotfexe [WARNING] unhinted <scaron>
+        makeotfexe [WARNING] unhinted <Tcaron>
+        makeotfexe [WARNING] unhinted <tcaron>
+        makeotfexe [WARNING] unhinted <Umacron>
+        makeotfexe [WARNING] unhinted <umacron>
+        makeotfexe [WARNING] unhinted <Uring>
+        makeotfexe [WARNING] unhinted <uring>
+        makeotfexe [WARNING] unhinted <Uhungarumlaut>
+        makeotfexe [WARNING] unhinted <uhungarumlaut>
+        makeotfexe [WARNING] unhinted <Uogonek>
+        makeotfexe [WARNING] unhinted <uogonek>
+        makeotfexe [WARNING] unhinted <Ydieresis>
+        makeotfexe [WARNING] unhinted <Zacute>
+        makeotfexe [WARNING] unhinted <zacute>
+        makeotfexe [WARNING] unhinted <Zdotaccent>
+        makeotfexe [WARNING] unhinted <zdotaccent>
+        makeotfexe [WARNING] unhinted <Zcaron>
+        makeotfexe [WARNING] unhinted <zcaron>
+        makeotfexe [WARNING] unhinted <circumflex>
+        makeotfexe [WARNING] unhinted <caron>
+        makeotfexe [WARNING] unhinted <breve>
+        makeotfexe [WARNING] unhinted <dotaccent>
+        makeotfexe [WARNING] unhinted <ring>
+        makeotfexe [WARNING] unhinted <tilde>
+        makeotfexe [WARNING] unhinted <hungarumlaut>
+        makeotfexe [WARNING] unhinted <pi>
+        makeotfexe [WARNING] unhinted <emdash>
+        makeotfexe [WARNING] unhinted <quoteleft>
+        makeotfexe [WARNING] unhinted <quoteright>
+        makeotfexe [WARNING] unhinted <quotesinglbase>
+        makeotfexe [WARNING] unhinted <quotedblleft>
+        makeotfexe [WARNING] unhinted <quotedblright>
+        makeotfexe [WARNING] unhinted <quotedblbase>
+        makeotfexe [WARNING] unhinted <dagger>
+        makeotfexe [WARNING] unhinted <daggerdbl>
+        makeotfexe [WARNING] unhinted <bullet>
+        makeotfexe [WARNING] unhinted <ellipsis>
+        makeotfexe [WARNING] unhinted <minus>
+        makeotfexe [WARNING] unhinted <approxequal>
+        makeotfexe [WARNING] unhinted <notequal>
+        makeotfexe [WARNING] unhinted <lessequal>
+        makeotfexe [WARNING] unhinted <greaterequal>
+        makeotfexe [WARNING] unhinted <Aringacute>
+        makeotfexe [WARNING] unhinted <Adotbelow>
+        makeotfexe [WARNING] unhinted <Ccircumflex>
+        makeotfexe [WARNING] unhinted <Cdotaccent>
+        makeotfexe [WARNING] unhinted <Ebreve>
+        makeotfexe [WARNING] unhinted <Edotbelow>
+        makeotfexe [WARNING] unhinted <Etilde>
+        makeotfexe [WARNING] unhinted <Gcircumflex>
+        makeotfexe [WARNING] unhinted <Gdotaccent>
+        makeotfexe [WARNING] unhinted <Gcaron>
+        makeotfexe [WARNING] unhinted <Hcircumflex>
+        makeotfexe [WARNING] unhinted <Itilde>
+        makeotfexe [WARNING] unhinted <Ibreve>
+        makeotfexe [WARNING] unhinted <Idotbelow>
+        makeotfexe [WARNING] unhinted <Odotbelow>
+        makeotfexe [WARNING] unhinted <Scircumflex>
+        makeotfexe [WARNING] unhinted <Scedilla>
+        makeotfexe [WARNING] unhinted <Scommaaccent>
+        makeotfexe [WARNING] unhinted <Tcommaaccent>
+        makeotfexe [WARNING] unhinted <Utilde>
+        makeotfexe [WARNING] unhinted <Ubreve>
+        makeotfexe [WARNING] unhinted <Udotbelow>
+        makeotfexe [WARNING] unhinted <Wcircumflex>
+        makeotfexe [WARNING] unhinted <Wgrave>
+        makeotfexe [WARNING] unhinted <Wacute>
+        makeotfexe [WARNING] unhinted <Wdieresis>
+        makeotfexe [WARNING] unhinted <Ycircumflex>
+        makeotfexe [WARNING] unhinted <Ymacron>
+        makeotfexe [WARNING] unhinted <Ygrave>
+        makeotfexe [WARNING] unhinted <Ytilde>
+        makeotfexe [WARNING] unhinted <AEacute>
+        makeotfexe [WARNING] unhinted <Oslashacute>
+        makeotfexe [WARNING] unhinted <Hbar>
+        makeotfexe [WARNING] unhinted <IJ>
+        makeotfexe [WARNING] unhinted <Ldot>
+        makeotfexe [WARNING] unhinted <Eng>
+        makeotfexe [WARNING] unhinted <Tbar>
+        makeotfexe [WARNING] unhinted <aringacute>
+        makeotfexe [WARNING] unhinted <adotbelow>
+        makeotfexe [WARNING] unhinted <ccircumflex>
+        makeotfexe [WARNING] unhinted <cdotaccent>
+        makeotfexe [WARNING] unhinted <ebreve>
+        makeotfexe [WARNING] unhinted <edotbelow>
+        makeotfexe [WARNING] unhinted <etilde>
+        makeotfexe [WARNING] unhinted <gcircumflex>
+        makeotfexe [WARNING] unhinted <gdotaccent>
+        makeotfexe [WARNING] unhinted <gcaron>
+        makeotfexe [WARNING] unhinted <hcircumflex>
+        makeotfexe [WARNING] unhinted <itilde>
+        makeotfexe [WARNING] unhinted <ibreve>
+        makeotfexe [WARNING] unhinted <idotbelow>
+        makeotfexe [WARNING] unhinted <jcircumflex>
+        makeotfexe [WARNING] unhinted <odotbelow>
+        makeotfexe [WARNING] unhinted <scircumflex>
+        makeotfexe [WARNING] unhinted <scedilla>
+        makeotfexe [WARNING] unhinted <scommaaccent>
+        makeotfexe [WARNING] unhinted <tcommaaccent>
+        makeotfexe [WARNING] unhinted <utilde>
+        makeotfexe [WARNING] unhinted <ubreve>
+        makeotfexe [WARNING] unhinted <udotbelow>
+        makeotfexe [WARNING] unhinted <wcircumflex>
+        makeotfexe [WARNING] unhinted <wgrave>
+        makeotfexe [WARNING] unhinted <wacute>
+        makeotfexe [WARNING] unhinted <wdieresis>
+        makeotfexe [WARNING] unhinted <ycircumflex>
+        makeotfexe [WARNING] unhinted <ymacron>
+        makeotfexe [WARNING] unhinted <ygrave>
+        makeotfexe [WARNING] unhinted <ytilde>
+        makeotfexe [WARNING] unhinted <aeacute>
+        makeotfexe [WARNING] unhinted <oslashacute>
+        makeotfexe [WARNING] unhinted <hbar>
+        makeotfexe [WARNING] unhinted <ij>
+        makeotfexe [WARNING] unhinted <eng>
+        makeotfexe [WARNING] unhinted <tbar>
+        makeotfexe [WARNING] unhinted <dotlessj>
+        makeotfexe [WARNING] unhinted <schwa>
+        makeotfexe [WARNING] unhinted <Gcommaaccent>
+        makeotfexe [WARNING] unhinted <Kcommaaccent>
+        makeotfexe [WARNING] unhinted <Lcommaaccent>
+        makeotfexe [WARNING] unhinted <Ncommaaccent>
+        makeotfexe [WARNING] unhinted <Rcommaaccent>
+        makeotfexe [WARNING] unhinted <Udotbellow>
+        makeotfexe [WARNING] unhinted <commaaccent>
+        makeotfexe [WARNING] unhinted <commaaccentalt>
+        makeotfexe [WARNING] unhinted <gcommaaccent>
+        makeotfexe [WARNING] unhinted <jdieresis>
+        makeotfexe [WARNING] unhinted <kcommaaccent>
+        makeotfexe [WARNING] unhinted <lcommaaccent>
+        makeotfexe [WARNING] unhinted <macroncap>
+        makeotfexe [WARNING] unhinted <ncommaaccent>
+        makeotfexe [WARNING] unhinted <odotbellow>
+        makeotfexe [WARNING] unhinted <rcommaaccent>
+        makeotfexe [WARNING] unhinted <sectionsign>
+        makeotfexe [WARNING] unhinted <f_f>
+        makeotfexe [WARNING] unhinted <f_i>
+        makeotfexe [WARNING] unhinted <j.ss01>
+        makeotfexe [WARNING] unhinted <abreveacute>
+        makeotfexe [WARNING] unhinted <abrevedotaccent>
+        makeotfexe [WARNING] unhinted <abrevegrave>
+        makeotfexe [WARNING] unhinted <abrevetilde>
+        makeotfexe [WARNING] unhinted <acircumflexacute>
+        makeotfexe [WARNING] unhinted <acircumflexdotaccent>
+        makeotfexe [WARNING] unhinted <acircumflexgrave>
+        makeotfexe [WARNING] unhinted <acircumlfextilde>
+        makeotfexe [WARNING] unhinted <ecircumflexacute>
+        makeotfexe [WARNING] unhinted <ecircumflexdotaccent>
+        makeotfexe [WARNING] unhinted <ecircumflexgrave>
+        makeotfexe [WARNING] unhinted <ecircumflextilde>
+        makeotfexe [WARNING] unhinted <ocircumflexacute>
+        makeotfexe [WARNING] unhinted <ocircumflexgrave>
+        makeotfexe [WARNING] unhinted <ocircumflextilde>
+        makeotfexe [WARNING] unhinted <ocircumlfexdotaccent>
+        makeotfexe [WARNING] unhinted <ydotaccent>
+        makeotfexe [WARNING] unhinted <dong>
+        makeotfexe [WARNING] <Euripides-SemiBold> [internal] Feature block seen before any language system statement. You should place languagesystem statements before any feature definition [../../../../../../..features 1]
+        Built release mode font 'tmp0gee6r9e.otf' Revision 0.000
+        
+        --------------------
+        Hinting font /var/folders/qg/8c72n2_90g79wq7h33b752680000gn/T/tmp0gee6r9e.otf. Start time: Sat Jul 25 16:52:45 2020.
+        ..............................................................................................................................................................................................................................................................................................................................................................................
+        Saving font file with new hints...Sat Jul 25 16:53:12 2020
+        Done with font /var/folders/qg/8c72n2_90g79wq7h33b752680000gn/T/tmp0gee6r9e.otf. End time: Sat Jul 25 16:53:12 2020.
+        
+
+Build WOFF2 (OTF)
+'''''''''''''''''
+    path: /Users/NYETO/Desktop/euripides-files/Euripides-SemiBold_web.woff2
+
+
+
+TTFAutohint options:
+********************
+addTTFAutoHintInfo     = False
+dwClearType            = False
+fallbackScript         = False
+gdiClearType           = True
+grayScale              = False
+hintRangeMaximum       = 50
+hintRangeMinimum       = 8
+hintingLimit           = 200
+noHintingLimit         = False
+noXHeightIncreaseLimit = False
+overRideFontLicense    = False
+preHinting             = False
+symbolFont             = False
+xHeightIncreaseLimit   = 14
